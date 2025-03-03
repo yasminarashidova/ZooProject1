@@ -1,1 +1,5 @@
+African Safari Zoo
 
+Group Members: Yasmina Rashidova
+
+Link to Website: https://yasminarashidova.github.io/ZooProject1/index.html
