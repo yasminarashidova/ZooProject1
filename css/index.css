@@ -1,11 +1,9 @@
-
 body {
   font-family: Gill Sans, sans-serif;
-  background-image: url("img/AfricanSafariPicture.jpg");
+  background-image: url("https://www.zicasso.com/static/5c2f0337524f954d382c555ed9f0a857/6d821/5c2f0337524f954d382c555ed9f0a857.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: orange;
   color: white;
   text-align: center;
 }
