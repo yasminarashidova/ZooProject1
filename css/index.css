@@ -1,12 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
-
-h1 {
-  font-family: 'Luckiest Guy', cursive;
-  color: white;
-}
 
 body {
-  font-family: Gill Sans, "Trebuchet MS", sans-serif;
+  font-family: Gill Sans, sans-serif;
   background-image: url("img/AfricanSafariPicture.jpg");
   background-size: cover;
   background-position: center;
